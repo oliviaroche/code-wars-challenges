@@ -8,3 +8,11 @@ Instruction on how to commit code
 - Add all changed files to be commited `git add -A`
 
 
+Instructions on creating a new repo
+- Create repository in github
+- Create repository folder on computer
+- Open repository folder in terminal
+- Copy intruction from github repo
+- Follow above instructions on how to commit code
+
+
