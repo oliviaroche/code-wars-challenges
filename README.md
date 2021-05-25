@@ -9,10 +9,10 @@ Instruction on how to commit code
 
 
 Instructions on creating a new repo
-- Create repository in github
-- Create repository folder on computer
-- Open repository folder in terminal
-- Copy intruction from github repo
+- Create repo in github
+- Create repo folder on computer
+- Open repos folder in terminal
+- Copy instruction from github repo
 - Follow above instructions on how to commit code
 
 
